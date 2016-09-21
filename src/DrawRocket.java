@@ -1,5 +1,6 @@
 /**
  * Created by ecyou on 9/19/2016.
+ * Erik Young EGR-222
  * this is a program that contains multiple functions which are called to create a desired
  * output which is a rocket
  */
